@@ -1,6 +1,6 @@
-<p style="font-size: 30px;"><strong> ✨ 欢迎来到 LaoMao-猫猫(@LaoMaoMAG) 的主页 ✨ </strong></p>
+# ✨ 欢迎来到 LaoMao-猫猫(@LaoMaoMAG) 的主页 ✨
 
-<p style="font-size: 20px;"><strong> ✨ Welcome to LaoMao(@LaoMaoMAG) homepage. ✨ </strong></p>
+## ✨ Welcome to LaoMao(@LaoMaoMAG) homepage. ✨
 
 <hr>
 
