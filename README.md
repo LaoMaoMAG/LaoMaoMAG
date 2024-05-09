@@ -40,6 +40,6 @@ B站：[**爱打盹的猫**](https://space.bilibili.com/622811302)
 
 ## 📖 统计
 
-<img   align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaoMaoMAG&locale=cn&line_height=33&theme=&langs_count=10"/>
+<img   align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaoMaoMAG&locale=cn&line_height=33&theme=&langs_count=5&layout=donut"/>
 
 <img   align="right" src="https://github-readme-stats.vercel.app/api?username=LaoMaoMAG&locale=cn&line_height=33&show_icons=true&hide=&theme=&rank_icon=default"/>
