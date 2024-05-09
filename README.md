@@ -1,8 +1,4 @@
-# ✨ 欢迎来到 LaoMao-猫猫(@LaoMaoMAG) 的主页 ✨
-
-## ✨ Welcome to LaoMao(@LaoMaoMAG) homepage. ✨
-
-<hr>
+# ✨ 欢迎来到 LaoMao-猫猫(@LaoMaoMAG) 的主页 ✨</br>✨ Welcome to LaoMao(@LaoMaoMAG) homepage. ✨
 
 
 
