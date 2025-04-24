@@ -6,7 +6,7 @@
 
 
 
-> **🌈 我是 猫猫(@LaoMaoMAG)，一只来自中国大连的业余程序喵。**
+> **🌈 我是 猫猫(@LaoMaoMAG)，一只来自中国的业余程序喵。**
 
 > **🌈 I am LaoMao(@ LaoMaoMAG), an amateur programmer cat from Dalian, China.**
 
