@@ -38,7 +38,7 @@ QQ群: [**939348061**]()
 
 QQ频道: [**猫猫の小窝**](https://pd.qq.com/s/2nwmz91mw)
 
-电子邮箱：[**2901688350@qq.com**](laomaomag@qq.com)
+电子邮箱：[**laomaomag@qq.com**](laomaomag@qq.com)
 
 B站：[**爱打盹的猫**](https://space.bilibili.com/622811302)
 
