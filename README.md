@@ -12,9 +12,9 @@
 
 ## 📈 GitHub 统计
 
-![GitHub 统计](https://github-readme-stats.vercel.app/api?username=LaoMaoMAG&show_icons=true&theme=default&hide_title=true)
+![GitHub 统计](https://github-readme-stats-fast.vercel.app/api?username=laomaomag&show=reviews,discussions_started,discussions_answered&show_icons=true&card_width=380)
 
-![最常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=LaoMaoMAG&layout=compact&theme=default&hide_title=true)
+![最常用语言](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=laomaomag&layout=compact&card_width=400&langs_count=20)
 
 ## 📫 联系我
 - GitHub: [github.com/LaoMaoMAG](https://github.com/LaoMaoMAG)
